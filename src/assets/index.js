@@ -1,0 +1,60 @@
+import logo from "./logo.svg";
+import backend from "./backend.png";
+import creator from "./creator.png";
+import mobile from "./mobile.png";
+import web from "./web.png";
+import github from "./github.png";
+import eye from "./glob.png";
+import menu from "./menu.svg";
+import close from "./close.svg";
+
+import css from "./tech/css.png";
+
+import figma from "./tech/figma.png";
+import git from "./tech/git.png";
+import html from "./tech/html.png";
+import javascript from "./tech/javascript.png";
+import blender from "./tech/blender.png";
+import nodejs from "./tech/nodejs.png";
+import reactjs from "./tech/reactjs.png";
+
+import tailwind from "./tech/tailwind.png";
+import typescript from "./tech/typescript.png";
+import threejs from "./tech/threejs.svg";
+
+import profile from "./me.png";
+import carrent from "./carrent.png";
+import jobit from "./jobit.png";
+import tripguide from "./tripguide.png";
+import poohport from "./poohport.png";
+import gofive from "./company/gofive.png";
+import university from "./company/university.png";
+export {
+  logo,
+  backend,
+  creator,
+  mobile,
+  web,
+  github,
+  menu,
+  close,
+  css,
+  figma,
+  git,
+  html,
+  javascript,
+  nodejs,
+  reactjs,
+  blender,
+  tailwind,
+  typescript,
+  threejs,
+  carrent,
+  jobit,
+  tripguide,
+  eye,
+  poohport,
+  profile,
+  gofive,
+  university,
+};
