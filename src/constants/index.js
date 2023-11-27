@@ -105,12 +105,14 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Thammasat University ",
+    title: "Bachelor of Engineering Software Engineering",
     company_name: "Thammasat University Rangsit Campus",
     icon: university,
     iconBg: "#FFD13E",
-    date: "August 2019 - May 2024",
-    points: ["Bachelor of Engineering - Software Engineering"],
+    date: "August 2019 - August 2024",
+    points: [
+      "Senior with the fourth-year academic status in the Faculty of Engineering in Software Engineering ",
+      "Expected to extend studying duration to August 2024"],
   },
   {
     title: "Intern as Front-end developer",

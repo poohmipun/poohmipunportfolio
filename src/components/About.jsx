@@ -10,7 +10,7 @@ const About = () => {
     <>
       <motion.div variants={textVariant()}>
         <p className={styles.sectionSubText}>Introduction</p>
-        <h2 className={styles.sectionHeadText}>About me</h2>
+        <h2 className={`blue-text-gradient ${styles.sectionHeadText}`}>About me</h2>
       </motion.div>
       <div className="xl:mt-6 xl:flex-row flex-col-reverse flex gap-10  overflow-hidden">
         <motion.p
@@ -47,3 +47,4 @@ const About = () => {
 };
 
 export default SectionWrapper(About, "about");
+  
